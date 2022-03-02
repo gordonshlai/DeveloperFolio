@@ -179,29 +179,31 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Full Stack Developer",
+      company: "Built by Pixel",
+      companylogo: require("./assets/images/built-by-pixel.png"),
+      date: "Jul 2021 – Present",
+      desc: "Built and maintain Web and Mobile applications (Android and iOS), including:",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "E-commerce platforms",
+        "E-learning platforms",
+        "Customer Relationship Management Systems (CRM)",
+        "Content Management Systems (CMS), etc."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Mobile App Developer",
+      company: "Warrantywise",
+      companylogo: require("./assets/images/warrantywise-logo.jpg"),
+      date: "Nov 2020 – Jul 2021",
+      desc: "Built the mobile application from scratch and maintained the web applications for trading between car dealerships and selling warranties."
     },
     {
       role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      company: "Digital Applications International",
+      companylogo: require("./assets/images/dai-logo.jpg"),
+      date: "Sep 2018 – Jan 2019",
+      desc: "Implements and evaluates the software, provides subsequent support and training for users in logistic industry."
     }
   ]
 };
