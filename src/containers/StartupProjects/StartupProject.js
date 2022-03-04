@@ -3,6 +3,8 @@ import "./StartupProjects.scss";
 import {bigProjects} from "../../portfolio";
 import {Fade} from "react-reveal";
 import StyleContext from "../../contexts/StyleContext";
+import "react-responsive-carousel/lib/styles/carousel.min.css";
+import {Carousel} from "react-responsive-carousel";
 
 export default function StartupProject() {
   function openUrlInNewTab(url) {
@@ -43,15 +45,21 @@ export default function StartupProject() {
                       : "project-card project-card-light"
                   }
                 >
-                  {project.image ? (
-                    <div className="project-image">
-                      <img
-                        src={project.image}
-                        alt={project.projectName}
-                        className="card-image"
-                        onClick={() => openUrlInNewTab(project.image)}
-                      ></img>
-                    </div>
+                  {project.images ? (
+                    <Carousel infiniteLoop labels showThumbs={false}>
+                      {project.images.map(image => (
+                        <div
+                          className="project-image"
+                          onClick={() => openUrlInNewTab(image)}
+                        >
+                          <img
+                            src={image}
+                            alt={project.projectName}
+                            className="card-image"
+                          ></img>
+                        </div>
+                      ))}
+                    </Carousel>
                   ) : null}
                   <div className="project-detail">
                     <h5

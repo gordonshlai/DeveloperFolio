@@ -236,8 +236,15 @@ const bigProjects = {
   subtitle: "SOME OF MY RECENT WORKS",
   projects: [
     {
-      image:
+      images: [
         "https://res.cloudinary.com/djoy89ghi/image/upload/v1646411349/portfolio/wise-dealer/home-screen_mpyska.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646411347/portfolio/wise-dealer/trade-screen_pigeah.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646411339/portfolio/wise-dealer/trade-detail-screen_nbj60z.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646411337/portfolio/wise-dealer/warranty-screen_wy07nk.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646411341/portfolio/wise-dealer/message-screen_xoxrwe.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646411343/portfolio/wise-dealer/message-detail-screen_bauwiy.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646411351/portfolio/wise-dealer/account-screen_k0uqh7.webp"
+      ],
       projectName: "Wise-Dealer App",
       projectDesc:
         "Car dealership App for The UK Best Warranty Provider - Warrantywise.",
@@ -250,8 +257,9 @@ const bigProjects = {
       ]
     },
     {
-      image:
-        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155304/samples/food/pot-mussels.jpg",
+      images: [
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155304/samples/food/pot-mussels.jpg"
+      ],
       projectName: "Saayahealth",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
@@ -263,8 +271,9 @@ const bigProjects = {
       ]
     },
     {
-      image:
-        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155303/samples/food/fish-vegetables.jpg",
+      images: [
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155303/samples/food/fish-vegetables.jpg"
+      ],
       projectName: "Saayahealth",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
@@ -276,8 +285,9 @@ const bigProjects = {
       ]
     },
     {
-      image:
-        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155302/samples/food/dessert.jpg",
+      images: [
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155302/samples/food/dessert.jpg"
+      ],
       projectName: "Saayahealth",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
@@ -289,8 +299,9 @@ const bigProjects = {
       ]
     },
     {
-      image:
-        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155304/samples/food/pot-mussels.jpg",
+      images: [
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155304/samples/food/pot-mussels.jpg"
+      ],
       projectName: "Saayahealth",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
@@ -302,8 +313,9 @@ const bigProjects = {
       ]
     },
     {
-      image:
-        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155309/samples/landscapes/beach-boat.jpg",
+      images: [
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155309/samples/landscapes/beach-boat.jpg"
+      ],
       projectName: "Nextu",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
