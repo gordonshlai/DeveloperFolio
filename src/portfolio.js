@@ -142,7 +142,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of Strathclyde",
-      logo: require("./assets/images/strathclydeLogo.webp"),
+      logo: "https://res.cloudinary.com/djoy89ghi/image/upload/v1646409929/portfolio/education/strathclydeLogo_u2gxig.webp",
       subHeader: "Master of Science in Software Development",
       duration: "September 2019 - September 2020",
       desc: "Honor: Distinction"
@@ -153,7 +153,7 @@ const educationInfo = {
     },
     {
       schoolName: "The University of Manchester",
-      logo: require("./assets/images/university-of-manchester.svg"),
+      logo: "https://res.cloudinary.com/djoy89ghi/image/upload/v1646409989/portfolio/education/university-of-manchester.svg",
       subHeader: "Master of Engineering in Chemical Engineering",
       duration: "September 2014 - July 2018",
       desc: "Honor: Second Class Division One ( 2 : 1 )"
@@ -191,7 +191,8 @@ const workExperiences = {
     {
       role: "Full Stack Developer",
       company: "Built by Pixel",
-      companylogo: require("./assets/images/built-by-pixel.webp"),
+      companylogo:
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646410617/portfolio/work-experience/built-by-pixel_klwmcd.webp",
       date: "Jul 2021 – Present",
       desc: "Built and maintain Web and Mobile applications (Android and iOS), including:",
       descBullets: [
@@ -204,14 +205,16 @@ const workExperiences = {
     {
       role: "Mobile App Developer",
       company: "Warrantywise",
-      companylogo: require("./assets/images/warrantywise-logo.webp"),
+      companylogo:
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646410615/portfolio/work-experience/warrantywise-logo_bzdjyt.webp",
       date: "Nov 2020 – Jul 2021",
       desc: "Built the mobile application from scratch and maintained the web applications for trading between car dealerships and selling warranties."
     },
     {
       role: "Software Engineer Intern",
       company: "Digital Applications International",
-      companylogo: require("./assets/images/dai-logo.webp"),
+      companylogo:
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646410619/portfolio/work-experience/dai-logo_hahne6.webp",
       date: "Sep 2018 – Jan 2019",
       desc: "Implements and evaluates the software, provides subsequent support and training for users in logistic industry."
     }
@@ -233,7 +236,8 @@ const bigProjects = {
   subtitle: "SOME OF MY RECENT WORKS",
   projects: [
     {
-      image: require("./assets/images/Home Screen.jpeg"),
+      image:
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646411349/portfolio/wise-dealer/home-screen_mpyska.webp",
       projectName: "Wise-Dealer App",
       projectDesc:
         "Car dealership App for The UK Best Warranty Provider - Warrantywise.",
@@ -260,31 +264,7 @@ const bigProjects = {
     },
     {
       image:
-        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155304/samples/food/pot-mussels.jpg",
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "More Screenshots",
-          url: "https://res.cloudinary.com/djoy89ghi/video/upload/v1646155318/samples/elephants.mp4"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "More Screenshots",
-          url: require("./assets/images/saayaHealthLogo.webp")
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155303/samples/food/fish-vegetables.jpg",
       projectName: "Saayahealth",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
@@ -297,7 +277,33 @@ const bigProjects = {
     },
     {
       image:
-        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155298/sample.jpg",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155302/samples/food/dessert.jpg",
+      projectName: "Saayahealth",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "More Screenshots",
+          url: "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155302/samples/food/dessert.jpg"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image:
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155304/samples/food/pot-mussels.jpg",
+      projectName: "Saayahealth",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "More Screenshots",
+          url: "https://res.cloudinary.com/djoy89ghi/video/upload/v1646155318/samples/elephants.mp4"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image:
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155309/samples/landscapes/beach-boat.jpg",
       projectName: "Nextu",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
