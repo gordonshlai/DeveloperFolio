@@ -142,7 +142,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of Strathclyde",
-      logo: require("./assets/images/strathclydeLogo.png"),
+      logo: require("./assets/images/strathclydeLogo.webp"),
       subHeader: "Master of Science in Software Development",
       duration: "September 2019 - September 2020",
       desc: "Honor: Distinction"
@@ -191,7 +191,7 @@ const workExperiences = {
     {
       role: "Full Stack Developer",
       company: "Built by Pixel",
-      companylogo: require("./assets/images/built-by-pixel.png"),
+      companylogo: require("./assets/images/built-by-pixel.webp"),
       date: "Jul 2021 – Present",
       desc: "Built and maintain Web and Mobile applications (Android and iOS), including:",
       descBullets: [
@@ -204,14 +204,14 @@ const workExperiences = {
     {
       role: "Mobile App Developer",
       company: "Warrantywise",
-      companylogo: require("./assets/images/warrantywise-logo.jpg"),
+      companylogo: require("./assets/images/warrantywise-logo.webp"),
       date: "Nov 2020 – Jul 2021",
       desc: "Built the mobile application from scratch and maintained the web applications for trading between car dealerships and selling warranties."
     },
     {
       role: "Software Engineer Intern",
       company: "Digital Applications International",
-      companylogo: require("./assets/images/dai-logo.jpg"),
+      companylogo: require("./assets/images/dai-logo.webp"),
       date: "Sep 2018 – Jan 2019",
       desc: "Implements and evaluates the software, provides subsequent support and training for users in logistic industry."
     }
