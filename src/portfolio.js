@@ -230,28 +230,92 @@ const openSource = {
 
 const bigProjects = {
   title: "Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "SOME OF MY RECENT WORKS",
   projects: [
+    {
+      image: require("./assets/images/Home Screen.jpeg"),
+      projectName: "Wise-Dealer App",
+      projectDesc:
+        "Car dealership App for The UK Best Warranty Provider - Warrantywise.",
+      footerLink: [
+        {
+          name: "More Screenshots",
+          url: "https://res.cloudinary.com/djoy89ghi/video/upload/v1646155318/samples/elephants.mp4"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image:
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155304/samples/food/pot-mussels.jpg",
+      projectName: "Saayahealth",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "More Screenshots",
+          url: "https://res.cloudinary.com/djoy89ghi/video/upload/v1646155318/samples/elephants.mp4"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image:
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155304/samples/food/pot-mussels.jpg",
+      projectName: "Saayahealth",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "More Screenshots",
+          url: "https://res.cloudinary.com/djoy89ghi/video/upload/v1646155318/samples/elephants.mp4"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "Saayahealth",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "More Screenshots",
+          url: require("./assets/images/saayaHealthLogo.webp")
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/saayaHealthLogo.webp"),
+      projectName: "Saayahealth",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "More Screenshots",
+          url: "https://res.cloudinary.com/djoy89ghi/video/upload/v1646155318/samples/elephants.mp4"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image:
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155298/sample.jpg",
       projectName: "Nextu",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
           name: "Visit Website",
           url: "http://nextu.se/"
+        },
+        {
+          name: "More Screenshots",
+          url: "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155298/sample.jpg"
+        },
+        {
+          name: "More Screenshots",
+          url: "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155298/sample.jpg"
+        },
+        {
+          name: "More Screenshots",
+          url: "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155298/sample.jpg"
         }
       ]
     }
