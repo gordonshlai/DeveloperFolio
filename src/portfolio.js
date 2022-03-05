@@ -249,9 +249,9 @@ const bigProjects = {
       projectDesc:
         "Car dealership App for The UK Best Warranty Provider - Warrantywise Ltd.",
       footerLink: [
-        {name: "React Native", url: ""},
-        {name: "PHP (Laravel)", url: ""},
-        {name: "MySQL", url: ""}
+        {name: "React Native", url: "https://reactnative.dev/"},
+        {name: "PHP (Laravel)", url: "https://laravel.com/"},
+        {name: "MySQL", url: "https://www.mysql.com/"}
         //  you can add extra buttons here.
       ]
     },
@@ -268,9 +268,9 @@ const bigProjects = {
       projectDesc:
         "Customer Relationship Management System for the best delivery service wholesaler in Manchester - Parfetts Ltd.",
       footerLink: [
-        {name: "React.js", url: ""},
-        {name: "PHP (Laravel)", url: ""},
-        {name: "MySQL", url: ""}
+        {name: "React.js", url: "https://reactjs.org/"},
+        {name: "PHP (Laravel)", url: "https://laravel.com/"},
+        {name: "MySQL", url: "https://www.mysql.com/"}
       ]
     },
     {
@@ -282,9 +282,10 @@ const bigProjects = {
       projectName: "E-Commerce Wesite",
       projectDesc: "E-Commerce webiste for the wholesaler - Barn Direct Ltd.",
       footerLink: [
-        {name: "Next.js", url: ""},
-        {name: "Node.js", url: ""},
-        {name: "GraphQL", url: ""}
+        {name: "Next.js", url: "https://nextjs.org/"},
+        {name: "Node.js", url: "https://nodejs.org/en/"},
+        {name: "GraphQL", url: "https://graphql.org/"},
+        {name: "MongoDB", url: "https://www.mongodb.com/"}
       ]
     },
     {
@@ -298,8 +299,9 @@ const bigProjects = {
       projectDesc:
         "A preliminary app for tracking students academic performance for University of Strathclyde.",
       footerLink: [
-        {name: "React Native", url: ""},
-        {name: "Node.js", url: ""}
+        {name: "React Native", url: "https://reactnative.dev/"},
+        {name: "Node.js", url: "https://nodejs.org/en/"},
+        {name: "MongoDB", url: "https://www.mongodb.com/"}
       ]
     }
   ],
