@@ -27,7 +27,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 expertise on building Web and Mobile applications with JavaScript / React.js / React Native / Node.js / and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ZrarqtG27Jev-eHcc20uPNX9PbAN2SEi/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1KcpKUoVwahOzUbuhKHk8hDKTfu2gUgpK/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -273,7 +273,6 @@ const bigProjects = {
           name: "More Screenshots",
           url: "https://res.cloudinary.com/djoy89ghi/video/upload/v1646155318/samples/elephants.mp4"
         }
-        //  you can add extra buttons here.
       ]
     },
     {
@@ -289,7 +288,6 @@ const bigProjects = {
           name: "More Screenshots",
           url: "https://res.cloudinary.com/djoy89ghi/video/upload/v1646155318/samples/elephants.mp4"
         }
-        //  you can add extra buttons here.
       ]
     }
   ],
