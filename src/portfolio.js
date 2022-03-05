@@ -245,9 +245,9 @@ const bigProjects = {
         "https://res.cloudinary.com/djoy89ghi/image/upload/v1646411343/portfolio/wise-dealer/message-detail-screen_bauwiy.webp",
         "https://res.cloudinary.com/djoy89ghi/image/upload/v1646411351/portfolio/wise-dealer/account-screen_k0uqh7.webp"
       ],
-      projectName: "Wise-Dealer App",
+      projectName: "Car Dealership Mobile App",
       projectDesc:
-        "Car dealership App for The UK Best Warranty Provider - Warrantywise.",
+        "Car dealership App for The UK Best Warranty Provider - Warrantywise Ltd.",
       footerLink: [
         {
           name: "More Screenshots",
@@ -258,10 +258,16 @@ const bigProjects = {
     },
     {
       images: [
-        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155304/samples/food/pot-mussels.jpg"
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646444511/portfolio/parfetts-crm/dashboard_eopozb.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646444511/portfolio/parfetts-crm/retailer_e3c75d.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646444511/portfolio/parfetts-crm/resources_yf6civ.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646444511/portfolio/parfetts-crm/audit_sxlqzx.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646444511/portfolio/parfetts-crm/products_qynwtj.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646444511/portfolio/parfetts-crm/planner_gcwx9e.webp"
       ],
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Admin Dashboard",
+      projectDesc:
+        "Customer Relationship Management System for the best delivery service wholesaler in Manchester - Parfetts Ltd.",
       footerLink: [
         {
           name: "More Screenshots",
@@ -272,10 +278,12 @@ const bigProjects = {
     },
     {
       images: [
-        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155303/samples/food/fish-vegetables.jpg"
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646412703/portfolio/barn-direct/landing_mc5g4r.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646412702/portfolio/barn-direct/products_ndeyr6.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646412702/portfolio/barn-direct/basket_gmkprw.webp"
       ],
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "E-Commerce Wesite",
+      projectDesc: "E-Commerce webiste for the wholesaler - Barn Direct Ltd.",
       footerLink: [
         {
           name: "More Screenshots",
