@@ -249,10 +249,9 @@ const bigProjects = {
       projectDesc:
         "Car dealership App for The UK Best Warranty Provider - Warrantywise Ltd.",
       footerLink: [
-        {
-          name: "More Screenshots",
-          url: "https://res.cloudinary.com/djoy89ghi/video/upload/v1646155318/samples/elephants.mp4"
-        }
+        {name: "React Native", url: ""},
+        {name: "PHP (Laravel)", url: ""},
+        {name: "MySQL", url: ""}
         //  you can add extra buttons here.
       ]
     },
@@ -269,10 +268,9 @@ const bigProjects = {
       projectDesc:
         "Customer Relationship Management System for the best delivery service wholesaler in Manchester - Parfetts Ltd.",
       footerLink: [
-        {
-          name: "More Screenshots",
-          url: "https://res.cloudinary.com/djoy89ghi/video/upload/v1646155318/samples/elephants.mp4"
-        }
+        {name: "React.js", url: ""},
+        {name: "PHP (Laravel)", url: ""},
+        {name: "MySQL", url: ""}
       ]
     },
     {
@@ -284,10 +282,9 @@ const bigProjects = {
       projectName: "E-Commerce Wesite",
       projectDesc: "E-Commerce webiste for the wholesaler - Barn Direct Ltd.",
       footerLink: [
-        {
-          name: "More Screenshots",
-          url: "https://res.cloudinary.com/djoy89ghi/video/upload/v1646155318/samples/elephants.mp4"
-        }
+        {name: "Next.js", url: ""},
+        {name: "Node.js", url: ""},
+        {name: "GraphQL", url: ""}
       ]
     },
     {
@@ -301,10 +298,8 @@ const bigProjects = {
       projectDesc:
         "A preliminary app for tracking students academic performance for University of Strathclyde.",
       footerLink: [
-        {
-          name: "More Screenshots",
-          url: "https://res.cloudinary.com/djoy89ghi/video/upload/v1646155318/samples/elephants.mp4"
-        }
+        {name: "React Native", url: ""},
+        {name: "Node.js", url: ""}
       ]
     }
   ],
