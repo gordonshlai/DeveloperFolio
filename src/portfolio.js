@@ -289,6 +289,23 @@ const bigProjects = {
           url: "https://res.cloudinary.com/djoy89ghi/video/upload/v1646155318/samples/elephants.mp4"
         }
       ]
+    },
+    {
+      images: [
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646488956/portfolio/student-progression-app/welcome-screen_stcbkm.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646488956/portfolio/student-progression-app/students-screen_yc12pk.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646488956/portfolio/student-progression-app/student-details-screen_w0ac9f.webp",
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646488956/portfolio/student-progression-app/module-details-screen_lzjqku.webp"
+      ],
+      projectName: "Student Management App",
+      projectDesc:
+        "A preliminary app for tracking students academic performance for University of Strathclyde.",
+      footerLink: [
+        {
+          name: "More Screenshots",
+          url: "https://res.cloudinary.com/djoy89ghi/video/upload/v1646155318/samples/elephants.mp4"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
