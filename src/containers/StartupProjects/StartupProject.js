@@ -46,7 +46,13 @@ export default function StartupProject() {
                   }
                 >
                   {project.images ? (
-                    <Carousel infiniteLoop labels showThumbs={false}>
+                    <Carousel
+                      autoPlay
+                      interval={5000}
+                      infiniteLoop
+                      labels
+                      showThumbs={false}
+                    >
                       {project.images.map(image => (
                         <div
                           className="project-image"
