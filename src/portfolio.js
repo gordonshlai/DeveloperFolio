@@ -291,59 +291,6 @@ const bigProjects = {
         }
         //  you can add extra buttons here.
       ]
-    },
-    {
-      images: [
-        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155302/samples/food/dessert.jpg"
-      ],
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "More Screenshots",
-          url: "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155302/samples/food/dessert.jpg"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
-      images: [
-        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155304/samples/food/pot-mussels.jpg"
-      ],
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "More Screenshots",
-          url: "https://res.cloudinary.com/djoy89ghi/video/upload/v1646155318/samples/elephants.mp4"
-        }
-        //  you can add extra buttons here.
-      ]
-    },
-    {
-      images: [
-        "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155309/samples/landscapes/beach-boat.jpg"
-      ],
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        },
-        {
-          name: "More Screenshots",
-          url: "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155298/sample.jpg"
-        },
-        {
-          name: "More Screenshots",
-          url: "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155298/sample.jpg"
-        },
-        {
-          name: "More Screenshots",
-          url: "https://res.cloudinary.com/djoy89ghi/image/upload/v1646155298/sample.jpg"
-        }
-      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
