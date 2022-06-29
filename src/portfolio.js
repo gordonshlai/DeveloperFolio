@@ -27,7 +27,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 expertise on building Web and Mobile applications with JavaScript / React.js / React Native / Node.js / and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1KcpKUoVwahOzUbuhKHk8hDKTfu2gUgpK/view?usp=sharing", // Set to empty to hide the button
+    "https://docs.google.com/document/d/1GKP9NHB5IorIwXqbxEh6lPmTT2IUJj_X/edit?usp=sharing&ouid=101989536241435205888&rtpof=true&sd=true", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -60,6 +60,9 @@ const skillsSection = {
     ),
     emoji(
       "⚡ Progressive Web Applications ( PWA ) in Single Page Application ( SPA ) Stacks"
+    ),
+    emoji(
+      "⚡ Integration of third party services such as Google Map API/ Stripe Payment"
     )
   ],
 
@@ -199,7 +202,8 @@ const workExperiences = {
         "E-commerce platforms",
         "E-learning platforms",
         "Customer Relationship Management Systems (CRM)",
-        "Content Management Systems (CMS), etc."
+        "Content Management Systems (CMS)",
+        "Travel Guide and Information platform, etc."
       ]
     },
     {
