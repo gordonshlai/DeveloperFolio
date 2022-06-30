@@ -251,7 +251,7 @@ const bigProjects = {
       ],
       projectName: "Car Dealership Mobile App",
       projectDesc:
-        "Car dealership App for The UK Best Warranty Provider - Warrantywise Ltd.",
+        "Car Dealership Mobile App for The UK Best Warranty Provider - Warrantywise Ltd.",
       footerLink: [
         {name: "React Native", url: "https://reactnative.dev/"},
         {name: "PHP (Laravel)", url: "https://laravel.com/"},
@@ -294,6 +294,18 @@ const bigProjects = {
     },
     {
       images: [
+        "https://res.cloudinary.com/djoy89ghi/image/upload/v1656629197/portfolio/travel-advisor/preview_w9x5vd.webp"
+      ],
+      projectName: "Travel Advisor",
+      projectDesc:
+        "A side project that integrated with Google Map API showcasing restaurants, hotels and attractions in a given area.",
+      footerLink: [
+        {name: "React.js", url: "https://reactjs.org/"},
+        {name: "Google Map API", url: "https://developers.google.com/maps"}
+      ]
+    },
+    {
+      images: [
         "https://res.cloudinary.com/djoy89ghi/image/upload/v1646488956/portfolio/student-progression-app/welcome-screen_stcbkm.webp",
         "https://res.cloudinary.com/djoy89ghi/image/upload/v1646488956/portfolio/student-progression-app/students-screen_yc12pk.webp",
         "https://res.cloudinary.com/djoy89ghi/image/upload/v1646488956/portfolio/student-progression-app/student-details-screen_w0ac9f.webp",
@@ -301,7 +313,7 @@ const bigProjects = {
       ],
       projectName: "Student Management App",
       projectDesc:
-        "A preliminary app for tracking students academic performance for University of Strathclyde.",
+        "A preliminary mobile app for tracking students academic performance for University of Strathclyde.",
       footerLink: [
         {name: "React Native", url: "https://reactnative.dev/"},
         {name: "Node.js", url: "https://nodejs.org/en/"},
